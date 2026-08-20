@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=atakejder&theme=github-dark&label=Ahmet%20Taha%20KILI%C3%87" width="100%" alt="Ahmet Taha KILIÇ" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=atakejder&theme=github-dark&label=Ahmet%20Taha" width="100%" alt="Ahmet Taha KILIÇ" />
 </p>
 
 <p align="center">
