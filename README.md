@@ -1,31 +1,51 @@
-<!-- 3D İsim Başlığı -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=AHMET TAHA KILIÇ&fontSize=50" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=atakejder&theme=github-dark&label=Ahmet%20Taha%20KILI%C3%87" width="100%" alt="Ahmet Taha KILIÇ" />
 </p>
-
-### Merhaba, Ben Yazılım Dünyasına Yeni Adım Atan Bir Geliştiriciyim! 👋
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-blue?style=for-the-badge&logo=appveyor" alt="Status">
-  <img src="https://img.shields.io/badge/Goal-Full--Stack%20Developer-orange?style=for-the-badge&logo=codeforces" alt="Goal">
-</p>
-
-Bilgisayar Programcılığı öğrencisi olarak **Full-Stack** geliştirici olma yolunda kararlı adımlarla ilerliyorum. Şu an ağırlıklı olarak **Python** ve arka plan mimarileri üzerine odaklanıyor; sürekli yeni teknolojiler öğrenip projeler üretiyorum.
-
----
-
-### 🛠️ Kullandığım Teknolojiler & Araçlar
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</p>
-
----
-
-### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtakEjder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=atakejder&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=atakejder&theme=github-dark&mode=dark" width="100%" alt="Ahmet Taha KILIÇ — profile" />
+  </picture>
+</p>
+
+<p align="center"><a href="https://github.com/atakejder">GitHub</a></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/about?username=atakejder&theme=github-dark" alt="atakejder about visual" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=atakejder&theme=github-dark" alt="atakejder stack visual" />
+</p>
+
+## Signal
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=atakejder&theme=github-dark" width="100%" alt="0 stars across 1 repositories" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=atakejder&theme=github-dark" width="100%" alt="Language stack" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=atakejder&theme=github-dark" alt="atakejder projects visual" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=atakejder&theme=github-dark" alt="atakejder social visual" />
+</p>
+
+## Profile scan
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/system-scan?username=atakejder&theme=github-dark" width="100%" alt="ASCII profile scan" />
+</p>
+
+<hr />
+
+<p align="center">
+  <sub>Ahmet Taha KILIÇ · every panel is a single <code>&lt;img&gt;</code> of live GitHub data ·
+  built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
 </p>
